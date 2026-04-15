@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Employee App',
       theme: ThemeData(
-        primarySwatch: Color.blue,
+        primarySwatch: Colors.blue,
         useMaterial3: true,
       ),
       home: const AddEmployeeScreen(),
