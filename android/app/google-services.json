@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "506507624320",
+    "firebase_url": "https://employee-db-8bd74-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "employee-db-8bd74",
+    "storage_bucket": "employee-db-8bd74.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506507624320:android:5105fcd273f1d649e6cb65",
+        "android_client_info": {
+          "package_name": "com.example.employee_clarissaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM0RVIm724EN-pqfv_AZe0zAweNEL0FfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
